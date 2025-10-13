@@ -1,4 +1,9 @@
 # scientific-computing-and-parallelism
+![C++](https://img.shields.io/badge/C++-11/14-blue)
+![Python](https://img.shields.io/badge/Python-3.9+-green)
+![Parallelism](https://img.shields.io/badge/Threads-MPI--GPU-orange)
+![Performance](https://img.shields.io/badge/High--Performance-Computing-red)
+
 High-performance and parallel computing experiments; multi-threading, GPU acceleration, and optimized numerical methods for data science.
 
 This repository highlights my work in system-level performance optimization and scalable computation - bridging data science and computer systems engineering.
